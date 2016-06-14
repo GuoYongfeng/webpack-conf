@@ -1,0 +1,26 @@
+{
+  "name": "webpack-conf",
+  "version": "1.0.0",
+  "description": "webpack config demo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --config build/dev.js",
+    "prod": "webpack --config build/dist.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuoYongfeng/webpack-conf.git"
+  },
+  "keywords": [
+    "webpack",
+    "es6",
+    "babel",
+    "config"
+  ],
+  "author": "guoyongfeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuoYongfeng/webpack-conf/issues"
+  },
+  "homepage": "https://github.com/GuoYongfeng/webpack-conf#readme"
+}
